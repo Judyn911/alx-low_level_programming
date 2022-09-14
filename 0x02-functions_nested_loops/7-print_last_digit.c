@@ -1,20 +1,3 @@
-
-ASJ18
-/
-alx-low_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-low_level_programming/0x02-functions_nested_loops/7-print_last_digit.c
-
-Abdulwahab task 7
- 0 contributors
-26 lines (23 sloc)  388 Bytes
 #include "main.h"
 
 /**
